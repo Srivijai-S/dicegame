@@ -14,9 +14,10 @@ Features
 Installation
 Clone this repository:
 bash
-Copy code bash```
+Copy code bash 
+```
   git clone https://github.com/Srivijai-S/dicegame.git
- 
+ ```
 Open index.html in your web browser to play the game.
 How to Play
 Open the game in a browser.
