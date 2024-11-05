@@ -1,4 +1,4 @@
-##Dice Game 🎲
+<h1>Dice Game 🎲<h1/>
 A simple dice game built with HTML, CSS, and JavaScript. The game randomly generates dice rolls and displays the results, making it a fun, quick game to play with friends!
 
 
