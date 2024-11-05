@@ -1,16 +1,11 @@
-Dice Game 🎲
+##Dice Game 🎲
 A simple dice game built with HTML, CSS, and JavaScript. The game randomly generates dice rolls and displays the results, making it a fun, quick game to play with friends!
 
-Table of Contents
-Overview
-Features
-Installation
-How to Play
-Technologies Used
-Screenshots
-License
-Overview
+
 This project is a straightforward dice game where two players can roll dice, and the player with the higher number wins. It’s a great way to learn and practice basic JavaScript, CSS, and DOM manipulation.
+
+Screenshots
+![image](https://github.com/user-attachments/assets/1a3fd5c2-bb8b-431a-bedc-469da84236ca)
 
 Features
 🎲 Random Dice Roll - Generates random dice results for each player.
@@ -19,8 +14,9 @@ Features
 Installation
 Clone this repository:
 bash
-Copy code
-git clone https://github.com/yourusername/dice-game.git
+Copy code bash```
+  git clone https://github.com/Srivijai-S/dicegame.git
+ 
 Open index.html in your web browser to play the game.
 How to Play
 Open the game in a browser.
